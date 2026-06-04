@@ -6,7 +6,7 @@
 > * **Username:** `admin`  
 > * **Password:** `12345`  
 
-A sample and basic full-stack user registration , secure login, and authentication system built using PHP, MySQL, XAMPP and FTP Filezilla. This project showcases modern backend web development standards, relational database architecture, and a strong emphasis on security practices.
+A sample and basic full-stack user registration , secure login, and authentication system built using AI Tools, PHP, MySQL, XAMPP and FTP Filezilla. This project showcases modern backend web development standards, relational database architecture, and a strong emphasis on security practices.
 
 ---
 ## 🛠️ Tech Stack & Engineer Tools
