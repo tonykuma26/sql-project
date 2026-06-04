@@ -7,12 +7,14 @@ echo             BEFORE YOU UPLOAD TO GITHUB
 echo ===================================================
 echo  Please verify you have completed these steps:
 echo.
-echo  [1] Is this .bat file inside your specific project folder? 
+echo. [1] Register Github, Install Gits (compulsary...)
+echo.
+echo  [2] Is this .bat file inside your specific project folder? 
 echo      Current location: %CD%
 echo.
-echo  [2] Have you created/updated your README.md file?
+echo  [3] Have you created/updated your README.md file?
 echo.
-echo  [3] Have you exported your latest SQL database from 
+echo  [4] Have you exported your latest SQL database from 
 echo      phpMyAdmin and pasted the .sql file here?
 echo ===================================================
 echo.
