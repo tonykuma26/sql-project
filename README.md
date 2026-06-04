@@ -1,6 +1,6 @@
 # Secure User Registration & Authentication System
 
-### 🌐 [🔗 Click Here to View the Live Demo App](http://your-infinityfree-subdomain.infinityfreeapp.com)
+### 🌐 [🔗 Click Here to View the Live Demo App](http://tonyarunkumar.rf.gd)
 
 A robust full-stack user registration, secure login, and authentication system built using PHP, MySQL, and PHPMailer. This project showcases modern backend web development standards, relational database architecture, and a strong emphasis on security practices.
 
