@@ -72,9 +72,10 @@ define('DB_NAME', 'registration_db');
 
 ## 👨‍💻 About the Developer
 
-I hold a **Diploma in Computer Application from 1980**, giving me an enduring, deep appreciation for the foundational algorithms, logic, and architecture of software systems. 
+I hold a **Diploma in Computer Application completed 1989-90 **, giving me an enduring, deep appreciation for the foundational algorithms, logic, and architecture of software systems. 
 
-Driven by a lifelong passion for technology, I am **entirely self-taught** in modern full-stack web engineering—independently mastering vanilla JavaScript, PHP, relational MySQL systems, and cloud hosting workflows. I build clean, secure, production-ready web tools by combining decades of rock-solid logical foundations with modern development practices.
+Driven by a lifelong passion for technology, I am **entirely self-taught** in modern full-stack web engineering—independently mastering vanilla JavaScript, PHP, relational MySQL systems, MS-OFFICE365, Client Filezilla and cloud hosting workflows. I build clean, secure, production-ready web tools by combining decades of rock-solid logical foundations with modern development practices.
 
 *   **GitHub Repository:** [https://github.com/tonykuma26/sql-project](https://github.com/tonykuma26/sql-project)
+* 
 *   **Connect with Me:** ARUN.KUMAR345@HOTMAIL.COM
