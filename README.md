@@ -2,6 +2,12 @@
 
 ### 🌐 [🔗 Click Here to View the Live Demo App](http://tonyarunkumar.rf.gd)
 
+> 💡 **Quick Testing Credentials:**  
+> To review the system immediately without registering a new email, use these testing credentials:  
+> * **Username:** `admin`  
+> * **Password:** `12345`  
+> *(Alternatively, feel free to use the registration form to create and verify a brand-new account!)*
+
 A robust full-stack user registration, secure login, and authentication system built using PHP, MySQL, and PHPMailer. This project showcases modern backend web development standards, relational database architecture, and a strong emphasis on security practices.
 
 ---
