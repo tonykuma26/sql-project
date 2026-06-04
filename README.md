@@ -3,7 +3,6 @@
 ### 🌐 [🔗 Click Here to View the Live Demo App](http://tonyarunkumar.rf.gd)
 
 > 💡 **Quick Testing Credentials:**  
-> To review the system immediately without registering a new email, use these testing credentials:  
 > * **Username:** `admin`  
 > * **Password:** `12345`  
 
