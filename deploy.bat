@@ -35,8 +35,8 @@ echo.
 
 :: Step 1: Configure Identity
 echo [1/5] Setting Git identity...
-git config --global user.email "arun.kumar345@hotmail.com"
-git config --global user.name "Tony Arun Kumar"
+git config --global user.email "your_email@example.com"
+git config --global user.name "Your Name"
 
 :: Step 2: Initialize Repository
 echo [2/5] Initializing local Git repository...
@@ -52,10 +52,24 @@ echo [4/5] Setting target branch and matching remote URL...
 git branch -M main
 git remote set-url origin https://github.com/tonykuma26/sql-project.git 2>nul || git remote add origin https://github.com/tonykuma26/sql-project.git
 
-:: Step 5: Push to GitHub
+:: Step 5: Push to GitHub with Error Recovery
 echo [5/5] Pushing files live to GitHub...
 echo.
 git push -u origin main
+
+:: Check if the push failed (Error level greater than or equal to 1)
+if %ERRORLEVEL% NEQ 0 (
+    echo.
+    echo ---------------------------------------------------
+    echo  WARNING: Push rejected. Syncing online changes...
+    echo ---------------------------------------------------
+    echo Running: git pull origin main --rebase
+    git pull origin main --rebase
+    
+    echo.
+    echo Retrying push to GitHub...
+    git push -u origin main
+)
 
 echo.
 echo ===================================================
