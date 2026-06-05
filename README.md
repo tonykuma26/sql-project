@@ -6,7 +6,7 @@
 > * **Username:** `admin`  
 > * **Password:** `12345`  
 
-A sample and basic full-stack user registration , secure login, and authentication system built using AI Tools, PHP, MySQL, XAMPP and FTP Filezilla. This project showcases modern backend web development standards, relational database architecture, and a strong emphasis on security practices.
+A full-stack user registration , secure login, and authentication system built using AI Tools, PHP, MySQL, XAMPP and FTP Filezilla Client. This project showcases modern backend web development standards, relational database architecture, and a strong emphasis on security practices.
 
 ---
 ## 🛠️ Tech Stack & Engineer Tools
@@ -16,7 +16,6 @@ A sample and basic full-stack user registration , secure login, and authenticati
 * **Local Development Environment:** XAMPP (Apache Server & phpMyAdmin)
 * **Deployment & File Transfer:** FileZilla FTP Client
 * **Cloud Infrastructure:** InfinityFree Cloud Hosting
-* **Version Control & Pipeline:** Git & Custom Windows Batch Scripting (`.bat`)
 
 ---
 
@@ -74,7 +73,7 @@ define('DB_NAME', 'registration_db');
 
 I hold a **Diploma in Computer Application completed 1989-90 **, giving me an enduring, deep appreciation for the foundational algorithms, logic, and architecture of software systems. 
 
-Driven by a lifelong passion for technology, I am **entirely self-taught** in modern full-stack web engineering—independently mastering vanilla JavaScript, PHP, relational MySQL systems, MS-OFFICE365, Client Filezilla and cloud hosting workflows. I build clean, secure, production-ready web tools by combining decades of rock-solid logical foundations with modern development practices.
+Driven by a lifelong passion for technology, I am **entirely self-taught** in modern full-stack web engineering—independently in JavaScript, PHP, relational MySQL systems, MS-OFFICE365, Client Filezilla and cloud hosting workflows. I build clean, secure, production-ready web tools by combining decades of rock-solid logical foundations with modern development practices.
 
 *   **GitHub Repository:** [https://github.com/tonykuma26/sql-project](https://github.com/tonykuma26/sql-project)
 * 
